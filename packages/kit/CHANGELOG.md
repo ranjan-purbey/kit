@@ -1,5 +1,15 @@
 # @sveltejs/kit
 
+## 1.23.0
+
+### Minor Changes
+
+- feat: accept `URL` in `redirect` ([#10570](https://github.com/sveltejs/kit/pull/10570))
+
+### Patch Changes
+
+- fix: allow logging `$page.url` during prerendering ([#10567](https://github.com/sveltejs/kit/pull/10567))
+
 ## 1.22.6
 
 ### Patch Changes
